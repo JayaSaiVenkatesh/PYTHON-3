@@ -34,7 +34,7 @@ Each report may include:
 The purpose of this project is to improve Python programming skills, problem-solving ability, algorithm design, and practical application development.
 
 ## Author
-**SubhanCodesX**
+**VenkateshCodesX**
 
 ## Repository Structure
 ```text
